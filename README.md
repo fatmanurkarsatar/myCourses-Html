@@ -1,4 +1,4 @@
-# myCourses-VanillaJs
+# myCourses-Html
 My courses project that belongs to you with Vanilla js
 
 
